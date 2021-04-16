@@ -1,14 +1,12 @@
 <#
     .SYNOPSIS
-        This will install HAP locally
+        This  demonstrates XML actions in Powershell
     .DESCRIPTION
-        This will verify that the HAP default user is installed in the local database.
-        You may need to update the servername and instance name to work as expected.
+        I will add addiitonal items as I build them out.
     .NOTES
-        Double check all variables prior to deployment
 
     .EXAMPLE
-        .\InstallLocalHAP.ps1
+        .\XMLManipulation.ps1
         
 #>
 BEGIN {
